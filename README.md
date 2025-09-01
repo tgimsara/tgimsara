@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgimsara" alt="tgimsara" /></a> </p>
 
-- 🔭 I’m currently working on **edutourism**
+- 🔭 I’m an internal student at **Uva Wellassa University** and an external student at **UCSC, University of Colombo**
 
 - 🌱 I’m currently learning **Laravel, angular**
 
