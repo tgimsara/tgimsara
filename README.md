@@ -1,5 +1,5 @@
-<h1 align="center">Hi,It's Tharusha's Profile</h1>
-<h3 align="center">dev lover</h3>
+<h1 align="center">Hi Im Tharusha</h1>
+<h3 align="center">Undergraduate Student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgimsara" alt="tgimsara" /></a> </p>
 
